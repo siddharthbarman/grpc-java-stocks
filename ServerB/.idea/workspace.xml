@@ -34,6 +34,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../ClientB/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -140,22 +141,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="369" y="83" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1586015546976" />
-    <state width="1237" height="244" key="GridCell.Tab.0.bottom" timestamp="1586016106812">
+    <state width="1237" height="244" key="GridCell.Tab.0.bottom" timestamp="1586019614943">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="244" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586016106812" />
-    <state width="1237" height="244" key="GridCell.Tab.0.center" timestamp="1586016106812">
+    <state width="1237" height="244" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586019614943" />
+    <state width="1237" height="244" key="GridCell.Tab.0.center" timestamp="1586019614943">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="244" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586016106812" />
-    <state width="1237" height="244" key="GridCell.Tab.0.left" timestamp="1586016106812">
+    <state width="1237" height="244" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586019614943" />
+    <state width="1237" height="244" key="GridCell.Tab.0.left" timestamp="1586019614943">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="244" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586016106812" />
-    <state width="1237" height="244" key="GridCell.Tab.0.right" timestamp="1586016106812">
+    <state width="1237" height="244" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586019614943" />
+    <state width="1237" height="244" key="GridCell.Tab.0.right" timestamp="1586019614943">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="244" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586016106812" />
+    <state width="1237" height="244" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586019614943" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1586012328016">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
