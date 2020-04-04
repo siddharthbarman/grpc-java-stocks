@@ -1,0 +1,26 @@
+syntax="proto3";
+option java_multiple_files=true;
+
+package com.sbytestream.samples.grpc.stockservice;
+
+message Stock {
+	string 	SYM=1;
+	float 	BID=2;
+	float	ASK=3;
+	int64	QTM=4; 
+	int64	TTM=5;
+	string 	EXC=6;
+}
+
+message Stocks {
+	repeated Stock stocks = 1;
+}
+
+message Empty {
+}
+
+service StockService {
+	rpc getTicks(Empty) returns (Stocks); 
+} 
+
+
